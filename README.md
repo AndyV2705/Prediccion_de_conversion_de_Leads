@@ -114,9 +114,9 @@ Comparación con Enfoques Tradicionales
                Enfoque Tradicional	                                             Este Modelo Personalizado
                   
                -Usa umbral genérico (0.5)         	                             Usa umbral ajustado por utilidad
-               -Optimiza Metricas de Evaluacion	                                     Optimiza la Rentabilidad del negocio
-               -Utiliza Métricas técnicas	                                            Decisiones con valor financiero
-               -Misma lógica para todos	                                             Adaptado a cada cliente
+               -Optimiza Metricas de Evaluacion	                                Optimiza la Rentabilidad del negocio
+               -Utiliza Métricas técnicas	                                      Decisiones con valor financiero
+               -Misma lógica para todos	                                        Adaptado a cada cliente
 
 
 
