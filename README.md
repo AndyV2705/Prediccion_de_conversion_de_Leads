@@ -141,5 +141,3 @@ Me especializo en modelos que generan impacto real, alineando cada decisión a l
 
 📧: andymlconsulting@email.com
 
-### Direccion del Proyecto
-prospectos_escuela_EON (3).ipynb
