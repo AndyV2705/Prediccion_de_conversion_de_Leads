@@ -27,7 +27,7 @@ Se aplicaron técnicas de segmentación para descubrir de donde provienen los le
 **✅ Automatización y Eficiencia**
 
 - El flujo de procesamiento de las Variables y datos fue hecho de manera optimizada, con codigo inteligente, para hacerlo de una manera "automatizada".
-- 
+
 
 ## 🚀 Impacto y Aplicaciones
 
@@ -131,7 +131,6 @@ Comparación con Enfoques Tradicionales
 ## 🤝 ¿Te gustaría aplicar este enfoque en tu empresa?
 
 📬 **Contáctame para desarrollar una solución adaptada a tu negocio** y mejorar tus decisiones comerciales con **Inteligencia Artificial aplicada a la vida real**.
-
 
 
 ### 🙋‍♂️ Sobre mí :
