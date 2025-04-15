@@ -2,7 +2,7 @@
 
 Este proyecto presenta un modelo de clasificación 100% personalizado, diseñado con un enfoque estratégico para resolver problemas reales de negocio.
 
-**Este modelo toma decisiones que generan rentabilidad, alineándose con los objetivos económicos específicos de cada cliente**, fue desarrollado para tomar decisiones inteligentes con base en los costos de errores y beneficios reales de captar un potencial cliente.
+**Este modelo toma decisiones que generan rentabilidad, alineándose con los objetivos económicos específicos de cada cliente**, fue desarrollado para tomar decisiones inteligentes con base en los costos de errores y beneficios reales de captar un Lead.
 
 Esto significa que cada predicción está ajustada a lo que realmente conviene al cliente, **optimizando no solo el rendimiento del modelo, sino también su impacto económico**.
 
