@@ -8,15 +8,6 @@ Esto significa que cada predicción está ajustada a lo que realmente conviene a
 
 **El modelo está diseñado para escalar fácilmente a otros datasets o sectores, gracias a su lógica modular y adaptable basada en costos y beneficios personalizados**.
 
-## 📑 Tabla de Contenido
-- [Descripción del Proyecto](#descripción)
-- [Qué hicimos](#qué-hicimos)
-- [Resultados Clave](#resultados)
-- [Aplicaciones Reales](#aplicaciones)
-- [Tecnologías Utilizadas](#tecnologías)
-- [Sobre mí](#sobre-mí)
-
-
 
 ## ⚙️ ¿Qué hicimos?
 
